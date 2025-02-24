@@ -14,7 +14,7 @@ All sample repositories should come with a description of the chosen development
 
 ## Examples
 
-| Repo Name | Technology | Language | OS | Dep. Repo |
+| Repo | Technology | Language | OS | Dependency Repo |
 | :--- | :--- | :---: | :--- | ---: |
 | mb-dotnet-console | dotnet | C# | x-platform | mb-dotnet-lib |
 | mb-dotnet-winapp | dotnet WinForms | C# | Windows | - |
