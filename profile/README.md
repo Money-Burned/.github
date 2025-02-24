@@ -19,5 +19,5 @@ All sample repositories should come with a description of the chosen development
 
 | Repo Name | Technology | Language | OS | Dep. Repo |
 | :--- | :--- | :---: | :--- | ---: |
-| mb-dotnet-console | dotnet | C# | x-platform | mb-dotnet-lib |
+| [mb-dotnet-console](https://github.com/Money-Burned/mb-dotnet-console) | dotnet | C# | x-platform | [mb-dotnet-lib](https://github.com/Money-Burned/mb-dotnet-lib) |
 | mb-dotnet-winapp | dotnet [WinForms](https://en.wikipedia.org/wiki/Windows_Forms) | C# | Windows | - |
