@@ -1,14 +1,16 @@
 # Requirements
 
-When a new piece of software is to be created, in most cases there are some specific requirements that need to be met. This can be anything from a simple task, such as downloading or converting files, to visualizing data, to a complex problem that needs to be solved in a time that a human would not be capable of.  
+When new software comes to life, there are usually certain requirements that need to be met. This can be anything from a simple task, such as downloading or converting files, to visualizing data, to a complex problem that needs to be solved in a time that a human would not be capable of.  
 
 Normally, a complete [requirements analysis](https://en.wikipedia.org/wiki/Requirements_analysis), as a separate sub-area of [software engineering](https://en.wikipedia.org/wiki/Software_engineering), would cover numerous topics. Here, we want to focus primarily on the use case or functional/behavioral requirements from the user's perspective.  
 We will largely ignore questions relating to stakeholders, measurable goals, a contract-like list of requirements or the various types of requirements besides the functional requirements. Let's assume that these questions have already been clarified at this point so that we can concentrate fully on the implementation of the software.  
 
 ## One simple use case
 
-As previously mentioned, the primary use case should be to have:  
-> a simple tool to visualize the loss of money over time by knowing the resources used
+As already mentioned, the primary use case should be as follows:  
+> A tool that visualizes the money spent over time by knowing the resources used and the time elapsed.  
+
+Or to put it simply: in the end, the user will always have a tool that is started like a stopwatch, but instead of time, money is ticking away.  
 
 ### Minimum requirements
 
