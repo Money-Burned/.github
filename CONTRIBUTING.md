@@ -8,11 +8,33 @@ To participate, you need an invitation to the organization. Please make sure tha
 
 tbd  
 
-- Access to "Money Burned"
-- Repo creation (template)
-- Naming conventions
-- The central implementation register
-- Licensing
+### Access to "Money Burned"
+
+tbd  
+
+### Naming conventions
+
+tbd  
+
+### Repo creation 
+
+tbd  
+
+#### Template
+
+tbd  
+
+#### Folder structure
+
+tbd  
+
+### The central implementation register
+
+tbd  
+
+### Licensing
+
+tbd  
 
 ## Maintaining your project
 
