@@ -6,14 +6,20 @@
 The background of **"Money-Burned"** is trying to answer the question of the comparability of different technological approaches when selecting a tech stack for a set of identical specific [requirements](../doc/requirements.md).  
 
 **"Money-Burned"** is somewhat ambiguous here. On the one hand, the name refers to the basic [requirements](../doc/requirements.md) that we want to implement in our various technology-specific examples: 
-> The result should always be **a simple tool that makes the loss of time and money through knowledge of the resources used visible**.  
+> The result should always be **a tool that visualizes the money spent over time by knowing the resources used and the time elapsed**.  
 
 On the other hand, it is a humorous allusion to the amount of time that is often pointlessly wasted trying to find a suitable entry point for a new project.  
 
 ## How do I start?
 
-Perhaps you simply choose a project/repository that is using a framework or programming language you are already familiar with. Maybe you choose one, you'd like to get familiar with. And if there's nothing for you yet, simply choose one of your preferred operating system.  
+### ...as a user
+
+Perhaps you simply choose a project/repository from the [list of examples](#examples) below that is using a framework or programming language you are already familiar with. Maybe you choose one, you'd like to get familiar with. And if there's nothing for you yet, simply choose one of your preferred operating system.  
 All sample repositories should come with a description of the chosen development concept, design considerations and a simple explanation of how to run the application.  
+
+### ...as a contributor
+
+We're happy to have you with us. Please refer to our [guidelines for contributors](../CONTRIBUTING.md) and the [code of conduct](../CODE_OF_CONDUCT.md) to get involved.  
 
 ## Examples
 
@@ -21,3 +27,6 @@ All sample repositories should come with a description of the chosen development
 | :--- | :--- | :---: | :--- | :--- | ---: |
 | [mb-dotnet-console](https://github.com/Money-Burned/mb-dotnet-console) | dotnet | C# | x-platform | [mb-dotnet-lib](https://github.com/Money-Burned/mb-dotnet-lib) | [roschinsky](https://github.com/roschinsky) |
 | mb-dotnet-winapp | dotnet [WinForms](https://en.wikipedia.org/wiki/Windows_Forms) | C# | Windows | - | [roschinsky](https://github.com/roschinsky) |
+
+You will then find all the information in the README file of the respective project. In addition to the description of how to get the application running and what you need for this, you should also learn something about the approach used to create the program.  
+This includes details about the degree of coverage of the requirements, information about the data model and persistence as well as any special challenges during development.  
