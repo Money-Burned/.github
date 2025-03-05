@@ -14,12 +14,12 @@ On the other hand, it is a humorous allusion to the amount of time that is often
 
 ### ...as a user
 
-Perhaps you simply choose a project/repository from the [list of examples](#examples) below that is using a framework or programming language you are already familiar with. Maybe you choose one, you'd like to get familiar with. And if there's nothing for you yet, simply choose one of your preferred operating system.  
+We are pleased that you are interested in "Money-Burned", software development or both! Perhaps you simply choose a project/repository from the [list of examples](#examples) below that is using a framework or programming language you are already familiar with. Maybe you choose one, you'd like to get familiar with. And if there's nothing for you yet, simply choose one of your preferred operating system.  
 All sample repositories should come with a description of the chosen development concept, design considerations and a simple explanation of how to run the application.  
 
 ### ...as a contributor
 
-We're happy to have you with us. Please refer to our [guidelines for contributors](../CONTRIBUTING.md) and the [code of conduct](../CODE_OF_CONDUCT.md) to get involved.  
+Yay, happy to have you with us! We're so excited to see what the implementation of "Money-Burned" will look like on your favorite platform and how it will be created. Please refer to our [intro for contributors](../CONTRIBUTING.md) and the [code of conduct](../CODE_OF_CONDUCT.md) to get involved.  
 
 ## Examples
 
