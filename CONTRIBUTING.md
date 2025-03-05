@@ -39,6 +39,9 @@ mb-python-qt
 mb-unity
 ```
 
+It would be good to mention in the description of the repository that it is based on "Money Burned", as well as the project type and the chosen software development environment.  
+It could be something like this: _A "Money Burned" PROJECT-TYPE-A implementation based on FRAMEWORK-B_.  
+
 If you are in any doubt, please contact the [core team](https://github.com/orgs/Money-Burned/teams/core).  
 
 #### Special cases
