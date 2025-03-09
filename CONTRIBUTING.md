@@ -46,7 +46,7 @@ If you are in any doubt, please contact the [core team](https://github.com/orgs/
 
 #### Special cases
 
-If you plan to create multiple projects for a framework that have a single resource to be referenced by those projects (e. g. libraries, packages, etc.).  
+Just in case you plan to create multiple projects for a framework that have a single resource to be referenced by those projects (e.g. libraries, packages, etc.), this section is for you.  
 Please create a separte repository whenever more than one of your project repositories are intended to use it. If you'd like to provide a library that only one of your projects are going to depend on, it is okay to include this dependency directly inside your project.  
 
 ##### Example #1 - Shared library:
@@ -92,10 +92,17 @@ In case you're missing some of the usual suspects, a few words about them:
 
 - folders _"build"_, _"packages"_ and/or _"artifacts"_ - without great benefit, because it's all about code
 - folder _"test"_ - no need in the first place but feel free to add
+- folder _"res"_ - would be a good place for resources like graphics, PDF, screenshots, etc.
 - folder _"samples"_ - well, isn't the whole project a sample in a way?
 - folder _"lib"_ - only relevant, if there is a 1-to-1 relation to your project (see [above](#special-cases))
 
 Here are some more good ideas, put together [Soulaiman Ghanem](https://medium.com/code-factory-berlin/github-repository-structure-best-practices-248e6effc405) and [David Fowler](https://gist.github.com/davidfowl/ed7564297c61fe9ab814).  
+
+#### Let useres know about our intentions
+
+Please make sure that the application you are developing - _if it has a user interface_ - contains a reference to the organizational profile of "Money Burned" including a hyperlink.  
+In addition to the the link back to "Money Burned" in your documention/README, you also should include the link to the profile page ([https://github.com/Money-Burned](https://github.com/Money-Burned)) into the application, where it is visible to the users of your implementation.  
+You are free to place it where it fits best for you. This could also be done in the info dialog or in the credits.  
 
 ### The central implementation register
 
