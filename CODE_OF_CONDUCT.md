@@ -11,4 +11,4 @@ This includes
 - Respectful and polite interaction between all participants at all times
 - Zero tolerance for harassment and other exclusionary behavior
 - Maintaining the professional and content-related context of "Money Burned"
-- Knowledge of and compliance with the organizational rules provided by "Money Burned" (e.g. naming rules, templates, minimum requirements, guidelines for collaboration in repositories, etc.)
+- Knowledge of and compliance with the [organizational rules](./CONTRIBUTING.md) provided by "Money Burned" (e.g. naming rules, templates, minimum requirements, guidelines for collaboration in repositories, etc.)
