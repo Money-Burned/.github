@@ -114,7 +114,7 @@ Here are some more good ideas, put together by [Soulaiman Ghanem](https://medium
 #### Let users know about our intentions
 
 Please make sure that the application you are developing - _if it has a user interface_ - contains a reference to the organizational profile of "Money Burned" including a hyperlink.  
-In addition to the the link back to "Money Burned" in your documention/README, you also should include the link to the profile page ([https://github.com/Money-Burned](https://github.com/Money-Burned)) into the application, where it is visible to the users of your implementation.  
+In addition to the link back to "Money Burned" in your documentation/README, you also should include the link to the profile page ([https://github.com/Money-Burned](https://github.com/Money-Burned)) into the application, where it is visible to the users of your implementation.  
 You are free to place it where it fits best for you. This could also be done in the info dialog or in the credits.  
 
 ### The central implementation register
