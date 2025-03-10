@@ -16,10 +16,10 @@ Or to put it simply: in the end, the user will always have a tool that is starte
 
 #### Functional
 
-- **MF 01.1** Possibiltiy to define multiple different resources as input
-- **MF 01.2** Possibiltiy to define the costs per time intervals for each resource as input
-- **MF 02.1** Possibiltiy to start a stopwatch
-- **MF 02.2** Possibiltiy to stop the stopwatch
+- **MF 01.1** Possibility to define multiple different resources as input
+- **MF 01.2** Possibility to define the costs per time intervals for each resource as input
+- **MF 02.1** Possibility to start a stopwatch
+- **MF 02.2** Possibility to stop the stopwatch
 - **MF 03.1** The costs must be calculated by multiplying the costs per resource by the number of resources by the elapsed time of the stopwatch
 - **MF 03.2** Output of the costs calculated
 - **MF 03.3** Output of the time elapsed
@@ -36,12 +36,12 @@ Or to put it simply: in the end, the user will always have a tool that is starte
 #### Functional
 
 - **OF 01.1** Possibility to distinguish between multiple time/money recording jobs as unique data records
-- **OF 01.2** Possibiltiy to pause time/money recording jobs
-- **OF 02.1** Possibiltiy to abstract the costs in roles that are bound to the specific resource
-- **OF 02.2** Possibiltiy to group resources as teams, that can be assigned like single resources to a single time/money recording job
+- **OF 01.2** Possibility to pause time/money recording jobs
+- **OF 02.1** Possibility to abstract the costs in roles that are bound to the specific resource
+- **OF 02.2** Possibility to group resources as teams, that can be assigned like single resources to a single time/money recording job
 - **OF 02.3** Possibility to categorize resources into different resource types
 - **OF 02.4** Have proper metadata (like name, status, ID, etc.) on each record as it is plausible
-- **OF 02.5** Have automaticly generated metadata like create/modified date on time/money recording job records
+- **OF 02.5** Have automatically generated metadata like create/modified date on time/money recording job records
 - **OF 03.1** Entered configuration data such as resources, teams, categories should be remembered and must be saved (at the latest when the application is closed)
 - **OF 03.2** Entered as well as recorded time/money jobs should be remembered and must be saved (at the latest when the application is closed) including all data
 
@@ -62,7 +62,7 @@ In order to have a more contemporary and tangible representation of the requirem
 ==> Requirements **MF 01.1**, **MF 01.2**, **MF 03.1**
 - **Story M2** "As a user I want to be able to start and stop a stopwatch whenever I want so that I can measure the time for a time/money recording job."  
 ==> Requirements **MF 02.1**, **MF 02.2**
-- **Story M3** "As a user I want to see the results of the calulation while the stopwatch is running (at every elapsed second) and when the stopwatch is finished so that I can see the development of costs over time and to refer to it later on."  
+- **Story M3** "As a user I want to see the results of the calculation while the stopwatch is running (at every elapsed second) and when the stopwatch is finished so that I can see the development of costs over time and to refer to it later on."  
 ==> Requirements **MF 03.2**, **MF 03.3**, **MB 01.1**
 - **Story M4** "As a user, when the stopwatch is stopped, I want to have a summary of the job displayed, showing resources, time and money invested. Also I want to have an option to save the results of the job."  
 ==> Requirements **MB 01.2**, **MF 03.4**
@@ -77,5 +77,5 @@ In order to have a more contemporary and tangible representation of the requirem
 ==> Requirements **OF 02.1**, **OF 02.1**, **OF 02.3**, **OB 02.1**
 - **Story O3** "As a user, I want to collect and store plausible metadata with configuration and progress data as well so that I can see a short summary in which the costs are broken down by resource type for each job and to have a history of all time/money recording jobs."  
 ==> Requirements **OF 02.4**, **OF 02.5**, **OB 03.1**, **OB 03.2**
-- **Story O4** "As a user, I want entered and processed data to be stored automaticly so that I can reuse data of former sessions and resume paused jobs later on."  
+- **Story O4** "As a user, I want entered and processed data to be stored automatically so that I can reuse data of former sessions and resume paused jobs later on."  
 ==> Requirements **OF 03.1**, **OF 03.2**
