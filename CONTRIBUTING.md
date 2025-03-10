@@ -4,6 +4,18 @@ Contributing to "Money Burned" means first of all submitting your own implementa
 
 To participate, you need an invitation to the organization. Please make sure that you agree to the organization's terms and conditions before requesting to become a contributing member.  
 
+## The Mission
+
+Although the name doesn't sound much like learning content or a non-profit community, "Money Burned" is primarily dedicated to collecting knowledge for the lowest possible entry into the topic of software development.  
+Of course, there is always a Hello World example for most major platforms, but with everything that comes after that, budding developers often face steep learning curves.  
+
+The main objectives of "Money Burned" are to:  
+- ...shed light on the why behind the often simple to answer initial questions, 
+- ...always use the same example as the basis for all sample implementations, 
+- ...create comparability between the frameworks/platforms.
+
+If you're only interested in building the tool itself for an environment you're using, that's perfectly fine - but that's only half the battle when it comes to getting involved here. A little texting will be unavoidable.  
+
 ## Getting started
 
 ### Access to "Money Burned"
@@ -24,7 +36,8 @@ When creating your repository, please stick to the following naming pattern:
 - **sub framework** is optional if differentiation on nuances is necessary
 - **project type** is optional and should help to differentiate between types of frontends or UI approaches
 
-Examples:
+##### Examples
+
 ```
 mb-asm
 mb-cpp-console
@@ -47,7 +60,7 @@ If you are in any doubt, please contact the [core team](https://github.com/orgs/
 #### Special cases
 
 Just in case you plan to create multiple projects for a framework that have a single resource to be referenced by those projects (e.g. libraries, packages, etc.), this section is for you.  
-Please create a separte repository whenever more than one of your project repositories are intended to use it. If you'd like to provide a library that only one of your projects are going to depend on, it is okay to include this dependency directly inside your project.  
+Please create a separate repository whenever more than one of your project repositories are intended to use it. If you'd like to provide a library that only one of your projects are going to depend on, it is okay to include this dependency directly inside your project.  
 
 ##### Example #1 - Shared library:
 
@@ -77,14 +90,14 @@ Please create a separte repository whenever more than one of your project reposi
 
 In order to offer a similar user experience across all repos and to ensure a minimum level of content quality, we ask you to use our template. You can find it at [.template-project](https://github.com/Money-Burned/.template-project) and it is possible to use it when creating a new repository.  
 
-In addition to a basic structure, you will also find a `README.md`. Please note the checklist at the end of the file and fill in the required minimum of information before you make your implementation of "Money Burned" available to the public.  
+In addition to a basic structure, you will also find a [`README.md`](https://github.com/Money-Burned/.template-project/blob/main/README.md). Please note the checklist at the end of the file and fill in the required minimum of information before you make your implementation of "Money Burned" available to the public.  
 
-To share your knowledge with others, we suggest that you explain your software development approach to interested people by going into more detail in the included `dev-approach.md` file. We give you some key points there that we think you can probably cover.    
+To share your knowledge with others, we suggest that you explain your software development approach to interested people by going into more detail in the included [`dev-approach.md`](https://github.com/Money-Burned/.template-project/blob/main/doc/dev-approach.md) file. We give you some key points there that we think you can probably cover.  
 
 #### Folder structure
 
-It's not that easy defining a complete framework or platform independend folder structure. There are so many different patterns and flavors: Some people prefer full names, some don't. Some people are keen on lots of folders, some are not.  
-If the choosen approach of yours or the best practice guidelines given by the technology you selected are more suitable, please feel free to adapt whats best for you. We think scenario over hard rules will fit way better.  
+It's not that easy defining a complete framework or platform independent folder structure. There are so many different patterns and flavors: Some people prefer full names, some don't. Some people are keen on lots of folders, some are not.  
+If the chosen approach of yours or the best practice guidelines given by the technology you selected are more suitable, please feel free to adapt what's best for you. We think scenario over hard rules will fit way better.  
 
 With our template repo, we have taken up a currently common idea of a modern Open Source folder structure and propose to follow this idea.  
 
@@ -96,9 +109,9 @@ In case you're missing some of the usual suspects, a few words about them:
 - folder _"samples"_ - well, isn't the whole project a sample in a way?
 - folder _"lib"_ - only relevant, if there is a 1-to-1 relation to your project (see [above](#special-cases))
 
-Here are some more good ideas, put together [Soulaiman Ghanem](https://medium.com/code-factory-berlin/github-repository-structure-best-practices-248e6effc405) and [David Fowler](https://gist.github.com/davidfowl/ed7564297c61fe9ab814).  
+Here are some more good ideas, put together by [Soulaiman Ghanem](https://medium.com/code-factory-berlin/github-repository-structure-best-practices-248e6effc405) and [David Fowler](https://gist.github.com/davidfowl/ed7564297c61fe9ab814).  
 
-#### Let useres know about our intentions
+#### Let users know about our intentions
 
 Please make sure that the application you are developing - _if it has a user interface_ - contains a reference to the organizational profile of "Money Burned" including a hyperlink.  
 In addition to the the link back to "Money Burned" in your documention/README, you also should include the link to the profile page ([https://github.com/Money-Burned](https://github.com/Money-Burned)) into the application, where it is visible to the users of your implementation.  
