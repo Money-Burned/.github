@@ -26,7 +26,7 @@ Yay, happy to have you with us! We're so excited to see what the implementation 
 | Repo Name | Technology | Language | OS | Dep. Repo | Maintainer |
 | :--- | :--- | :---: | :--- | :--- | ---: |
 | [mb-dotnet-console](https://github.com/Money-Burned/mb-dotnet-console) | dotnet | C# | x-platform | [mb-dotnet-lib](https://github.com/Money-Burned/mb-dotnet-lib) | [roschinsky](https://github.com/roschinsky) |
-| mb-dotnet-winapp | dotnet [WinForms](https://en.wikipedia.org/wiki/Windows_Forms) | C# | Windows | - | [roschinsky](https://github.com/roschinsky) |
+| [mb-dotnet-winapp](https://github.com/Money-Burned/mb-dotnet-winapp) | dotnet WinForms | C# | Windows | [mb-dotnet-lib](https://github.com/Money-Burned/mb-dotnet-lib) | [roschinsky](https://github.com/roschinsky) |
 
 You will then find all the information in the README file of the respective project. In addition to the description of how to get the application running and what you need for this, you should also learn something about the approach used to create the program.  
 This includes details about the degree of coverage of the requirements, information about the data model and persistence as well as any special challenges during development.  
